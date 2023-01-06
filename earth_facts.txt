@@ -1,0 +1,6 @@
+earth dia = 12,742 km
+earth circum = 40,075 km
+earth volume = 1 trillion m^3
+earth mass  = 5.9722e24 kg aprox 6e24 
+earth density = 5515 kg/m^3
+earth axis = 23 deg
